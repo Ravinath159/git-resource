@@ -1,6 +1,9 @@
 # Git Resource
 
-###LEARN
+#TEXT
+
+>[Atlassian](https://www.atlassian.com/git/)
+
 >VIDEO
 
 [Git-Tower](https://www.git-tower.com/learn/git/videos/#episodes)
