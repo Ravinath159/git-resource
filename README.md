@@ -2,11 +2,13 @@
 
 >TEXT
 
->[Atlassian](https://www.atlassian.com/git/)
+* [Atlassian](https://www.atlassian.com/git/)
+* 
+* [Git-SCM](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 
 >VIDEO
 
-[Git-Tower](https://www.git-tower.com/learn/git/videos/#episodes)
+* [Git-Tower](https://www.git-tower.com/learn/git/videos/#episodes)
 
 >OTHERS
 
