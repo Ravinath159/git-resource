@@ -3,7 +3,10 @@
 >TEXT
 
 * [Atlassian](https://www.atlassian.com/git/)
+
 * [Git-SCM](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+
+* [Git in 30](http://tutorialzine.com/2016/06/learn-git-in-30-minutes/)
 
 >VIDEO
 
