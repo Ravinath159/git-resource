@@ -1,6 +1,6 @@
 # Git Resource
 
-#TEXT
+>TEXT
 
 >[Atlassian](https://www.atlassian.com/git/)
 
