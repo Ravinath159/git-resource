@@ -3,7 +3,6 @@
 >TEXT
 
 * [Atlassian](https://www.atlassian.com/git/)
-* 
 * [Git-SCM](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 
 >VIDEO
@@ -12,5 +11,5 @@
 
 >OTHERS
 
-[Write Read Me](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+* [Write Read Me](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
