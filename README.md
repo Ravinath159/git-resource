@@ -14,6 +14,8 @@
 
 * [Udacity](https://classroom.udacity.com/courses/ud775/lessons/2980038599/concepts/29607789240923) 
 
+* [Corey Schafer](https://www.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx)
+
 >OTHERS
 
 * [Write Read Me](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
